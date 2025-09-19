@@ -1,0 +1,20 @@
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Compilados
+out/
+build/
+target/
+*.class
+*.jar
+*.war
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
